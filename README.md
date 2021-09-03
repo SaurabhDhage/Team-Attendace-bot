@@ -1,6 +1,5 @@
 # Microsoft Teams Online Class Attender
 
-This project is not updated/maintained. It is a FIY (Fix It Yourself).
 
 This bot attends the online classes (or meetings) held on Microsoft teams, according to the given timetable.
 
